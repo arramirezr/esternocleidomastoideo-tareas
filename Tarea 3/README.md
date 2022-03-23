@@ -18,6 +18,11 @@ gcloud compute addresses list
 
 #### ```Listar buckets disponibles```
 
+```
+
+gcloud logging buckets list
+```
+
 #### ```Listar Service Accounts existentes en un proyecto```
 
 <div align="left">
