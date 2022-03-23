@@ -4,6 +4,11 @@ Tareas Esternocleidomastoideo
 
 #### ```Listar Compute Engine```
 
+```
+
+gcloud compute instances list 
+```
+
 #### ```Listar IP’s en uso, existentes o reservadas```
 
 #### ```Listar buckets disponibles```
