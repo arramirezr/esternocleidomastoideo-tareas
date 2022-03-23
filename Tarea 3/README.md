@@ -38,3 +38,9 @@ gcloud iam service-accounts list
 <a href="https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419"> Referencia Listar Compute Engine </a>
 
 <a href="https://cloud.google.com/sdk/gcloud/reference/compute/instances/list?hl=es-419"> Referencia Listar Compute Engine </a>
+
+<a href="https://cloud.google.com/logging/docs/buckets?hl=es_419"> Referencia Listar buckets disponibles 
+Engine </a>
+
+<a href="https://cloud.google.com/sdk/gcloud/reference/logging/buckets/list?hl=es_419"> Referencia Listar buckets disponibles 
+Engine </a>
