@@ -11,6 +11,11 @@ gcloud compute instances list
 
 #### ```Listar IP’s en uso, existentes o reservadas```
 
+```
+
+gcloud compute addresses list
+```
+
 #### ```Listar buckets disponibles```
 
 #### ```Listar Service Accounts existentes en un proyecto```
