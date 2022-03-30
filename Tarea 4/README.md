@@ -51,3 +51,11 @@
 ** 9.- Instalación de Splunk
 ** 10.- Configuración de logs para monitoreo con Splunk
 ```
+
+### Julio César 
+```
+** 1.- Ejecución de sh para visualización de roles asignados a un grupo en un proyecto (IAM).
+** 2.- Aplicar permisos ejecutando sh (IAM).
+** 3.- Envío de correo Idocs en Error (IdM).
+** 4.- Alerta y reinicio de servicio Remote Loader PUM. 
+```
