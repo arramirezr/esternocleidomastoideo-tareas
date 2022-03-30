@@ -59,3 +59,27 @@
 ** 3.- Envío de correo Idocs en Error (IdM).
 ** 4.- Alerta y reinicio de servicio Remote Loader PUM. 
 ```
+
+### Lyly Nabor Monroy
+```
+1. Creación de Servidores Virtuales. 
+2. Actualización de parches de vulnerabilidades. 
+3. Hardening de S.O.
+4. Creación de usuarios (Aplicativos).
+5. Generación de OU (AD). 
+6. Depuración de unidades de almacenamiento.
+7. Generación de grupos (AD). 
+8. Asignación de grupos a usuarios (AD). 
+9. Obtención de inventario de Domain Controllers.
+10. Reubicación de objetos en AD.
+11. Creación de usuarios en ST. 
+12. Ejecución de comandos para validación de réplica AD. 
+13. Creación de GPO AD. 
+14. Obtención de inventario de usuarios (AD).
+15. Aplicación de GPO AD.
+16. Ejecución de escaneos HD.
+17. Extracción de usuarios AD.
+18. Depuración masiva de usuarios. 
+19. Monitoreo de Controladores de Dominio.
+20. Ejecución de reportes en Workspace
+```
