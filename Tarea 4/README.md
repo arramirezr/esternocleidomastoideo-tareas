@@ -37,3 +37,17 @@
 ** 15.- Validacion de funcionamiento de DNS (si estos responden el servicio se encuentra ok)
 ** 16.- Generación de heap dumps cuando una instancia deje de responder
 ```
+
+### Jonathan Islas Hernández
+```
+** 1.- Creación de usuarios en sistema operativo
+** 2.- Configuración conexiones directas
+** 3.- Configuración relaciones de confianza
+** 4.- Instalación de NPAM
+** 5.- Configuración de archivo ssh
+** 6.- Configuración de llave para escaneo de vulnerabilidades
+** 7.- Configuración de llave para descubrimiento con PBPS (Keeper)
+** 8.- Aplicación de hardening de seguridad
+** 9.- Instalación de Splunk
+** 10.- Configuración de logs para monitoreo con Splunk
+```
