@@ -18,3 +18,22 @@
 **
 **
 ```
+### Nancy Estela Gutierrez Soria
+```
+** 1.- Despliegue de nuevos ears en plataforma JBOSS
+** 2.- Despliegue de nuevos wars en plataforma WAS
+** 3.- Despliegue de Frontend en plataforma NodeJS
+** 4.- Despliegue de nuevos ears para el Backend en platafroma ATG Weblogic
+** 5.- Replica de contenido estatico en Akamai
+** 6.- Copia de archivos en filesystems especificos solicitados por usuarios
+** 7.- Depurado de filesystems (en especial los de logs)
+** 8.- Reinicio de instancias en horarios especificos para mantenimiento o por solicitud de usuarios
+** 9.- Revicion de alertas en Dynatrace, que detonen alguna medida correctiva
+** 10.- Depurado del feedmaster
+** 11.- Ejecución de indexados (Liverpool, Multisitios, Mesa de regalos)
+** 12.- Alta, Baja o reinicio de aplicaciones 
+** 13.- Flush de cache en Akamai para reflejo de cambios recientes
+** 14.- Aplicacion de fixpacks en las diferentes plataformas
+** 15.- Validacion de funcionamiento de DNS (si estos responden el servicio se encuentra ok)
+** 16.- Generación de heap dumps cuando una instancia deje de responder
+```
