@@ -7,16 +7,16 @@
 ### Ana Rosa Ramírez Rodríguez
 
 ```
-** Creación de Servidores OnPrem.
-** Creación de file systems en servidores nuevos.
-** Validación de la correcta instalación y configuración de los prerequisitos necesarios en servidores nuevos.
-** Obtención de inventario de vmware con el objetivo de mantenerlo actualizado.
-** Ejecución de Actualizaciones de paquetes de SO que no implican reinicio de SO para que se puedan aplicar masivamente.
-** Ejecución de Actualizaciones de SO que sí implican reinicio de SO.
-** Mantener actualizadas nuestras pantillas de SO que sirven para la generación de equipos nuevos.
-**
-**
-**
+1.- Creación de Servidores OnPrem.
+2.- Creación de file systems en servidores nuevos.
+3.- Validación de la correcta instalación y configuración de los prerequisitos necesarios en servidores nuevos.
+4.- Obtención de inventario de vmware con el objetivo de mantenerlo actualizado.
+5.- Ejecución de Actualizaciones de paquetes de SO que no implican reinicio de SO para que se puedan aplicar masivamente.
+6.- Ejecución de Actualizaciones de SO que sí implican reinicio de SO.
+7.- Mantener actualizadas nuestras pantillas de SO que sirven para la generación de equipos nuevos.
+8.- Depuración de File Systems que normalmente se llenan.
+9.- Depuración general de caché de repositorios rhel. 
+10.- Validación de los kpis con los que deben cumplir los servidores.
 ```
 ### Nancy Estela Gutierrez Soria
 ```
